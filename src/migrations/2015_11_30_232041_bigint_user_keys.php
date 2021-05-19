@@ -13,7 +13,7 @@ class BigintUserKeys extends Migration
     public function up()
     {
         Schema::table('role_user', function (Blueprint $table) {
-            $table->bigInteger("user_id")->unsigned()->change();
+            $table->integer("user_id")->unsigned()->change();
         });
     }
 
