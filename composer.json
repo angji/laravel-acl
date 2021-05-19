@@ -1,6 +1,6 @@
 {
-    "name": "kodeine/laravel-acl",
-    "description": "Light-weight role-based permissions for Laravel 5 built in Auth system.",
+    "name": "angji/laravel-acl",
+    "description": "Light-weight role-based permissions for Laravel 5 built in Auth system. fork",
     "license": "MIT",
     "keywords": [
         "laravel",
